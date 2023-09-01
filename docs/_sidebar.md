@@ -1,5 +1,5 @@
 
-* 案例介绍456
+* 案例介绍
 * 解决方案
 * 快速入门
     * [开发须知](zh-cn/BeforeDevelopment.md)
