@@ -13,7 +13,7 @@
 
 ### M30系列使用装配
 
-![](images/M30.jpg)
+![M30](../images/M30.jpg)
 
 
 
