@@ -2,7 +2,7 @@
 
 ## SIM卡安装
 
-![](images/SIM.jpg)
+![SIM](../images/SIM.jpg)
 ## 大疆无人机安装
 
 ### M300RTK/M350RTK使用装配
@@ -31,7 +31,7 @@ Icrest3可以提供3种方式进行开发调试，用户可根据实际需求进
 4. 以太网有线连接
 
 ### 使用大疆无人机M350RTK/M300RTK/M30/M3T调试
-11
+
 ![wurenji](../images/wurenji.jpg)
 
 ### 桌面单机调试
