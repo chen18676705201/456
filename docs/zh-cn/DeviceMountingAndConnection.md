@@ -2,18 +2,18 @@
 
 ## SIM卡安装
 
-![SIM](../images/SIM.jpg)
+![](images/SIM.jpg)
 ## 大疆无人机安装
 
 ### M300RTK/M350RTK使用装配
 
-![M300 M350](../images/M300%20M350.jpg)
+![](images/M300%20M350.jpg)
 
 
 
 ### M30系列使用装配
 
-![M30](../images/M30.jpg)
+![](images/M30.jpg)
 
 
 
