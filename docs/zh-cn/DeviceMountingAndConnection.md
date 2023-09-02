@@ -5,7 +5,7 @@
 <img src="../images/SIM.jpg" alt="SIM" style="zoom:50%;" />
 
 ![SIM](../images/SIM.jpg)
-
+![inbox](images/inbox.jpg)
 ## 大疆无人机安装
 
 ### M300RTK/M350RTK使用装配
