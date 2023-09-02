@@ -3,8 +3,8 @@
 ## SIM卡安装
 
 <img src="../images/SIM.jpg" alt="SIM" style="zoom:50%;" />
-![SIM](../images/SIM.jpg)
 
+![SIM](../images/SIM.jpg)
 
 ## 大疆无人机安装
 
