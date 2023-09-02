@@ -13,7 +13,7 @@ Icrest3是专为 无人机开发者打造的第三代微型计算机，搭载 NV
 ## 物品清单
 ![inbox](images/inbox.jpg)
 
-
+![SIM](images/SIM.jpg)
 
 ## 预装软件
 
@@ -54,3 +54,4 @@ Icrest3预装了以下软件，用户可根据使用需求安装其他软件。
 <img src="images/Icrest3-Lite%20size.jpg" alt="Icrest3-Lite size" style="zoom: 25%;" />
 
 <img src="images/Icrest5-5G%20size.jpg" alt="Icrest5-5G size" style="zoom: 25%;" />
+
