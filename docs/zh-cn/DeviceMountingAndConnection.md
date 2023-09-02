@@ -4,7 +4,7 @@
 
 <img src="../images/SIM.jpg" alt="SIM" style="zoom:50%;" />
 
-![SIM](../images/SIM.jpg)
+<img src="../images/SIM.jpg" alt="SIM" style="zoom:25%;" />
 
 ## 大疆无人机安装
 
