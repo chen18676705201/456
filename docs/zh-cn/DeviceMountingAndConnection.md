@@ -2,11 +2,11 @@
 
 ## SIM卡安装
 
-<img src="../images/SIM.jpg" alt="SIM" style="zoom:50%;" />
+<img src="../images/SIM.jpg" alt="SIM" style="zoom: 25%;" />
 
 
 
-
+<img src="../images/inbox.jpg" alt="inbox" style="zoom:25%;" />
 
 ![SIM](../images/SIM.jpg)
 ## 大疆无人机安装
