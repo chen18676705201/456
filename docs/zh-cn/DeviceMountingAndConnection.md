@@ -35,7 +35,7 @@ Icrest3可以提供3种方式进行开发调试，用户可根据实际需求进
 
 ### 使用大疆无人机M350RTK/M300RTK/M30/M3T调试
 
-<img src="../images/2.2.1.%E4%BD%BF%E7%94%A8%E5%A4%A7%E7%96%86%E6%97%A0%E4%BA%BA%E6%9C%BAM350RTK:M300RTK:M30:M3T%E8%B0%83%E8%AF%95%20.jpg" alt="2.2.1.使用大疆无人机M350RTK:M300RTK:M30:M3T调试 " style="zoom: 25%;" />
+<img src="../images/%E4%BD%BF%E7%94%A8%E5%A4%A7%E7%96%86%E6%97%A0%E4%BA%BA%E6%9C%BAM350RTK:M300RTK:M30:M3T%E8%B0%83%E8%AF%95%20.jpg" alt="使用大疆无人机M350RTK:M300RTK:M30:M3T调试 " style="zoom: 25%;" />
 
 ### 桌面单机调试
 
