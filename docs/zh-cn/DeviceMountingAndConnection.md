@@ -32,17 +32,17 @@ Icrest3可以提供3种方式进行开发调试，用户可根据实际需求进
 
 ### 使用大疆无人机M350RTK/M300RTK/M30/M3T调试
 
-![wurenji](../images/wurenji.jpg)
+![云冠3硬件连接图-大疆无人机调试](../images/%E4%BA%91%E5%86%A03%E7%A1%AC%E4%BB%B6%E8%BF%9E%E6%8E%A5%E5%9B%BE-%E5%A4%A7%E7%96%86%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%B0%83%E8%AF%95.png)
 
 ### 桌面单机调试
 
 > 此时供电使用外部电源适配器供电，不需要使用无人机进行供电。
 
-![桌面单机调试](../images/%E6%A1%8C%E9%9D%A2%E5%8D%95%E6%9C%BA%E8%B0%83%E8%AF%95.jpg)
+![云冠3硬件连接图-桌面单机调试](../images/%E4%BA%91%E5%86%A03%E7%A1%AC%E4%BB%B6%E8%BF%9E%E6%8E%A5%E5%9B%BE-%E6%A1%8C%E9%9D%A2%E5%8D%95%E6%9C%BA%E8%B0%83%E8%AF%95.png)
 
 ### 接入1.4GHz等第三方私有图传链路调试
 
-![接入1.4GHz等第三方私有图传链路调试](../images/%E6%8E%A5%E5%85%A51.4GHz%E7%AD%89%E7%AC%AC%E4%B8%89%E6%96%B9%E7%A7%81%E6%9C%89%E5%9B%BE%E4%BC%A0%E9%93%BE%E8%B7%AF%E8%B0%83%E8%AF%95.jpg)
+![云冠3硬件连接图-第三方图传链路接入](../images/%E4%BA%91%E5%86%A03%E7%A1%AC%E4%BB%B6%E8%BF%9E%E6%8E%A5%E5%9B%BE-%E7%AC%AC%E4%B8%89%E6%96%B9%E5%9B%BE%E4%BC%A0%E9%93%BE%E8%B7%AF%E6%8E%A5%E5%85%A5.png)
 
 ### 使用QGC地面站控制调试拓扑图
 
