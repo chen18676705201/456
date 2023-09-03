@@ -24,7 +24,7 @@ ssh nvidia@192.168.55.1
 
 > password: nvidia
 
-
+![通过OTG cable登入系统 ](../images/%E9%80%9A%E8%BF%87OTG%20cable%E7%99%BB%E5%85%A5%E7%B3%BB%E7%BB%9F%20.jpg)
 
 <img src="../images/%E9%80%9A%E8%BF%87OTG%20cable%E7%99%BB%E5%85%A5%E7%B3%BB%E7%BB%9F%20.jpg" alt="通过OTG cable登入系统 " style="zoom:50%;" />
 
