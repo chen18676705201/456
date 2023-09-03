@@ -34,7 +34,7 @@ ssh nvidia@192.168.55.1
 2.  获取Icrest3 IP地址
 3. 确保HOST PC的IP和Icrest3 IP处于同一网段
 
-4. 在HOST PC上使用SSH工具进行Icrest3 以太网连接，例如Icrest 3 IP地址为 192.168.x.x，剩下步骤可参照“OTG RNDIS登入系统”方法进行SSH连接
+4. 在HOST PC上使用SSH工具进行Icrest3 以太网连接，例如Icrest 3 IP地址为 192.168.x.x，剩下步骤可参照“OTG cable登入系统”方法进行SSH连接
 
 ### 通过DEBUG UART登入系统
 
