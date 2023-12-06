@@ -3,9 +3,8 @@
 ## **Icrest3**
 
 > 图示以Icrest3-5G为例，若无特殊注明，以下描述适用于Icrest3系列所有型号。
->
 
-<img src="../images/%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E.jpg" alt="部件说明" style="zoom:50%;" />
+![部件说明](../images/%E9%83%A8%E4%BB%B6%E8%AF%B4%E6%98%8E.jpg)
 
 #### CAN口
 
